@@ -1,1 +1,3 @@
-print("first project")
+def main():
+    print("first project")
+
